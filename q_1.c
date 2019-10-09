@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include "gpio.h"
-
+//This is an example
 int main(void)
 {
 	gpio_properties out_gpio, in_gpio;
